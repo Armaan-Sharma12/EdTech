@@ -1,0 +1,10 @@
+.env
+.venv/
+.DS_Store
+.ipynb_checkpoints/
+cohere_ai/__pycache__/
+logic/__pycache__/
+.vscode/
+# Logs and temporary files
+*.log
+*.tmp
