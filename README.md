@@ -1,20 +1,20 @@
-# 🧠 EdTech AI Assessment Engine
+#  EdTech AI Assessment Engine
 
 This project is an **AI-powered adaptive learning platform** designed to enhance education through intelligent question analysis and generation. It uses the **Cohere API** to classify difficulty levels, generate new questions, and explain answers, forming a robust backend for EdTech applications.
 
 ---
 
-## ⚙️ Features
+##  Features
 
-- ✅ **Difficulty Classification** of questions using Cohere embeddings
-- ✍️ **Question Generation** for dynamic quizzes
-- 💡 **Answer Explanation** to support student learning
-- 🧠 **Adaptive Engine** for personalized question delivery
-- 📄 JSON-based question datasets for Science subjects
+-  **Difficulty Classification** of questions using Cohere embeddings
+-  **Question Generation** for dynamic quizzes
+-  **Answer Explanation** to support student learning
+-  **Adaptive Engine** for personalized question delivery
+-  JSON-based question datasets for Science subjects
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 edtech-project/  
 │   
@@ -40,7 +40,7 @@ edtech-project/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
